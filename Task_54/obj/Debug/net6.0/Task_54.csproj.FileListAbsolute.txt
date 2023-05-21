@@ -1,0 +1,15 @@
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\bin\Debug\net6.0\Task_54.exe
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\bin\Debug\net6.0\Task_54.deps.json
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\bin\Debug\net6.0\Task_54.runtimeconfig.json
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\bin\Debug\net6.0\Task_54.dll
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\bin\Debug\net6.0\Task_54.pdb
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\obj\Debug\net6.0\Task_54.csproj.AssemblyReference.cache
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\obj\Debug\net6.0\Task_54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfoInputs.cache
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfo.cs
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\obj\Debug\net6.0\Task_54.csproj.CoreCompileInputs.cache
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\obj\Debug\net6.0\Task_54.dll
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\obj\Debug\net6.0\refint\Task_54.dll
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\obj\Debug\net6.0\Task_54.pdb
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\obj\Debug\net6.0\Task_54.genruntimeconfig.cache
+C:\Users\intertop-admin\Desktop\DZ_Leeson_8\Task_54\obj\Debug\net6.0\ref\Task_54.dll
